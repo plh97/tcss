@@ -10,6 +10,7 @@
 
 
 ### it is an demo auto change normal css into autopretty
+![image](https://user-images.githubusercontent.com/14355994/48012230-86d2c180-e15c-11e8-9a11-090ed0b85927.png)
 
 
 
