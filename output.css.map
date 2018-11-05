@@ -1,0 +1,1 @@
+{"version":3,"sources":["dist/index.css"],"names":[],"mappings":"AAAA;EACE,cAAc;CACf;;;AAGD;EACE,cAAc;CACf","file":"output.css","sourcesContent":["body {\n  display: grid;\n}\n\n\ndiv {\n  display: flex;\n}"]}
